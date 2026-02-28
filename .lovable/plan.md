@@ -1,9 +1,9 @@
 
 
-# Reove Technologies LLC – IT Support Website
+# RJTEK LLC – IT Support Website
 
 ## Overview
-A professional multi-page website for Reove Technologies LLC, inspired by the layout and structure of geek-way.com/it-helpdesk, but branded with Reove's identity and populated with content from your PDFs. Includes a contact form, live chat widget, and support ticket system powered by Supabase.
+A professional multi-page website for RJTEK LLC, inspired by the layout and structure of geek-way.com/it-helpdesk, but branded with RJTEK's identity and populated with content from your PDFs. Includes a contact form, live chat widget, and support ticket system powered by Supabase.
 
 ---
 

@@ -74,7 +74,7 @@ const whyUs = [
 ];
 
 const testimonials = [
-  { name: "Sarah M.", role: "Small Business Owner", text: "Reove Technologies saved our office when all printers went down before a major deadline. Fast, professional, and affordable!", rating: 5 },
+  { name: "Sarah M.", role: "Small Business Owner", text: "RJTEK saved our office when all printers went down before a major deadline. Fast, professional, and affordable!", rating: 5 },
   { name: "James K.", role: "IT Manager", text: "Their Wi-Fi support team resolved our network issues in under 30 minutes. Highly recommended for any business.", rating: 5 },
   { name: "Linda R.", role: "Freelancer", text: "I was locked out of my email for days. Reove's team got me back in quickly and secured my account. Lifesavers!", rating: 5 },
 ];

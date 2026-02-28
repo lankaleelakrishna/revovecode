@@ -23,10 +23,10 @@ const Header = () => {
         <Link to="/" className="flex items-center gap-1">
           <img
             src="/logo.png"
-            alt="Reove Technologies"
-            className="h-10 md:h-12 lg:h-14 w-auto max-w-[220px] object-contain block"
+            alt="RJTEK"
+            className="h-20 md:h-24 lg:h-28 w-auto max-w-[300px] object-contain block"
           />
-          <span className="hidden sm:inline-block text-sm md:text-base font-semibold tracking-tight text-primary-foreground">
+          <span className="inline-block text-sm md:text-base font-semibold tracking-tight text-primary-foreground">
            RJTEK
           </span>
         </Link>

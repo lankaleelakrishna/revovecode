@@ -12,7 +12,7 @@ const Footer = () => {
               <img
                 src="/logo.png"
                 alt="RJTEK"
-                className="h-10 md:h-12 w-auto max-w-[180px] object-contain block"
+                className="h-16 md:h-20 w-auto max-w-[240px] object-contain block"
               />
               <span className="text-lg font-semibold text-primary-foreground">RJTEK</span>
             </div>
